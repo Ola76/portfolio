@@ -30,10 +30,10 @@ function redirectTotweetapp() {
 function redirectTostop() {
     window.location.href = "https://github.com/Ola76/spotify_casestudy";
 }
-function redirectTosales() {
+function redirectTosalesapp() {
     window.location.href = "https://superstoreappusa.streamlit.app/";
 }
-function redirectTosalesapp() {
+function redirectTosales() {
     window.location.href = "https://github.com/Ola76/superstore/tree/main";
 }
 function redirectTohotel() {
