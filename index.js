@@ -12,6 +12,9 @@ thumbnailBorderDom.appendChild(thumbnailItemsDom[0]);
 let timeRunning = 5000;
 let timeAutoNext = 7000;
 
+function redirectToApp() {
+    window.location.href = "https://datamanager-8ljjczxy6gcnqp9md7akiz.streamlit.app/";
+}
 function redirectTochat() {
     window.location.href = "https://github.com/Ola76/telegram-news-bot";
 }
